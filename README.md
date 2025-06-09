@@ -22,10 +22,6 @@ I’m passionate about software development and always eager to learn new techno
 2. **Online Bookstore (Servlet & JSP)**  
    Developed a basic online bookstore web app with servlet and JSP technologies, featuring user login, product browsing, and order placement.
 
-3. **E-Commerce REST API (Spring Boot)**  
-   Built a RESTful API for an e-commerce platform, handling user authentication, product catalog, shopping cart, and orders.
-
-4. *(You can add your own projects here)*
 
 ---
 
