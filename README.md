@@ -42,9 +42,9 @@ I’m passionate about software development and always eager to learn new techno
 ---
 
 ### 📫 How to reach me  
-- Email: vyom1818@example.com  
+- Email: vyomchauhan501@gmail.com  
 - LinkedIn: [linkedin.com/in/vyom1818](https://linkedin.com/in/vyom1818)  
-- Twitter: [@vyom1818](https://twitter.com/vyom1818)
+
 
 ---
 
