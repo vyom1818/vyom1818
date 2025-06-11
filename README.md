@@ -6,45 +6,61 @@ I’m passionate about software development and always eager to learn new techno
 ---
 
 ### 💻 Skills & Technologies I Know  
-- **Languages:** Java, SQL, JavaScript, HTML, CSS  
-- **Backend:** Hibernate, Spring Framework, Spring Boot, REST APIs  
-- **Frontend:** Basic React.js / Angular (learning)  
+- **Languages:** Java, PHP, SQL, JavaScript, HTML, CSS, C, Python  
+- **Backend:** Hibernate, Spring Framework (learning), Spring Boot (learning), Laravel, JSP & Servlets  
+- **Frontend:** Bootstrap, Basic React.js / Angular (learning)  
 - **Databases:** MySQL, Oracle  
-- **Tools:** Maven, Git, GitHub, Eclipse, IntelliJ IDEA  
-- **Other:** JUnit, Mockito, Basic Linux commands
+- **Tools:** Maven, Git, GitHub, VS Code, Eclipse, IntelliJ IDEA, XAMPP  
+- **Other:** MVC Architecture, REST APIs, CRUD, JUnit, Mockito, Basic Linux Commands
 
 ---
 
 ### 🚀 Projects  
-1. **Employee Management System**  
-   A CRUD web application using Java, Hibernate, and MySQL to manage employee data with add, update, delete, and search functionalities.
 
-2. **Online Bookstore (Servlet & JSP)**  
-   Developed a basic online bookstore web app with servlet and JSP technologies, featuring user login, product browsing, and order placement.
+#### 🔹 **WWS – Work With Skills (PHP, MySQL, JavaScript)**  
+Freelance job platform with roles for Admin, Company, and Freelancer. Companies can post projects; freelancers bid; companies assign work. Includes authentication and dashboards.
 
+#### 🔹 **Artibidz (PHP, Bootstrap)**  
+An online art auction and selling platform where users can place real-time bids on artworks. Artists can list their pieces for auction or direct sale.
+
+#### 🔹 **Skill Exchange Program (Laravel)**  
+Barter-style platform allowing users to exchange skills based on mutual needs. Built using Laravel with skill-tagged profiles and messaging functionality.
+
+#### 🔹 **TechBlog (Java, Servlet, JSP, MySQL)**  
+A blogging platform allowing users to register and post tech blogs. Features user login, category filtering, and clean MVC architecture.
+
+#### 🔹 **Management System Project (Java, Servlet, JSP, JDBC)**  
+A web-based CRUD application to manage entities like students or employees. Includes role-based login and search/filter features.
+
+#### 🔹 **Employee Management System (Java, Hibernate, MySQL)**  
+CRUD-based backend system for managing employee records. Built using Hibernate ORM and MySQL with clean separation of layers.
+
+#### 🔹 **Online Bookstore (Servlet & JSP)**  
+Basic e-commerce bookstore with login/signup, browsing, and order placement functionalities using Servlets and JSP.
 
 ---
 
 ### 🌱 I’m currently learning  
 - Advanced Hibernate & JPA  
-- Microservices & Spring Cloud  
-- Frontend frameworks React.js / Angular  
+- Spring Framework + Spring Boot  
+- React.js & Angular basics  
+- Microservices Architecture  
 - Clean Code & Design Patterns
 
 ---
 
 ### 💞️ I’m looking to collaborate on  
-- Open source Java backend projects  
-- Full-stack web applications  
-- Developer tools and libraries  
-- Anything that challenges me and helps me grow!
+- Java backend projects (Hibernate/Spring)  
+- Full-stack web apps  
+- Open source developer tools  
+- Projects that challenge and grow my skill set
 
 ---
 
 ### 📫 How to reach me  
-- Email: vyomchauhan501@gmail.com  
-- LinkedIn: [linkedin.com/in/vyom1818](https://linkedin.com/in/vyom1818)  
-
+- 📧 Email: vyomchauhan501@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/vyom1818](https://linkedin.com/in/vyom1818)  
+- 🐙 GitHub: [github.com/vyom1818](https://github.com/vyom1818)
 
 ---
 
