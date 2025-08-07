@@ -38,8 +38,7 @@ I’m passionate about software development and always eager to learn new techno
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-009688?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vyom-chauhan-9b87a3370/)
 
 ---
 
