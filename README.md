@@ -15,14 +15,6 @@ I’m passionate about software development and always eager to learn new techno
 
 
 
----
-### 🚀 Stats & Activity
-
-![Vyom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vyom1818&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyom1818&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vyom-chauhan-9b87a3370/)
