@@ -32,28 +32,10 @@ An online art auction and selling platform where users can place real-time bids 
 #### 🔹 **Skill Exchange Program (Laravel)**  
 Barter-style platform allowing users to exchange skills based on mutual needs. Built using Laravel with skill-tagged profiles and messaging functionality.
 
-#### 🔹 **TechBlog (Java, Servlet, JSP, MySQL)**  
-A blogging platform allowing users to register and post tech blogs. Features user login, category filtering, and clean MVC architecture.
-
-#### 🔹 **Management System Project (Java, Servlet, JSP, JDBC)**  
-A web-based CRUD application to manage entities like students or employees. Includes role-based login and search/filter features.
-
-#### 🔹 **Employee Management System (Java, Hibernate, MySQL)**  
-CRUD-based backend system for managing employee records. Built using Hibernate ORM and MySQL with clean separation of layers.
-
-#### 🔹 **Online Bookstore (Servlet & JSP)**  
-Basic e-commerce bookstore with login/signup, browsing, and order placement functionalities using Servlets and JSP.
 
 ---
 
-### 🌱 I’m currently learning  
-- Advanced Hibernate & JPA  
-- Spring Framework + Spring Boot  
-- React.js & Angular basics  
-- Microservices Architecture  
-- Clean Code & Design Patterns
 
----
 
 ### 💞️ I’m looking to collaborate on  
 - Java backend projects (Hibernate/Spring)  
