@@ -7,11 +7,10 @@ I’m passionate about software development and always eager to learn new techno
 
 ### 💻 Skills & Technologies I Know  
 - **Languages:** Java, PHP, SQL, JavaScript, HTML, CSS, C, Python  
-- **Backend:** Hibernate, Spring Framework (learning), Spring Boot (learning), Laravel, JSP & Servlets  
-- **Frontend:** Bootstrap, Basic React.js / Angular (learning)  
+- **Backend:** Hibernate, Laravel, JSP & Servlets  
+- **Frontend:** Bootstrap  
 - **Databases:** MySQL, Oracle  
-- **Tools:** Maven, Git, GitHub, VS Code, Eclipse, IntelliJ IDEA, XAMPP  
-- **Other:** MVC Architecture, REST APIs, CRUD, JUnit, Mockito, Basic Linux Commands
+- **Tools:** Maven, GitHub, VS Code, Eclipse, IntelliJ IDEA, XAMPP  
 
 
 
